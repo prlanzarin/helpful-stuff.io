@@ -7,6 +7,7 @@
 ## C
 - [Efficient C/C++](http://embeddedgurus.com/stack-overflow/category/efficient-cc/)
 - [Going back to C](https://www.reddit.com/r/programming/comments/aue06/going_back_to_c/)
+- [Robust Design Techniques for C Programs](http://freetype.sourceforge.net/david/reliable-c.html)
 - [SEI CERT C Coding Standard: Rules for Developing Safe, Reliable, and Secure Systems](http://www.cert.org/secure-coding/products-services/secure-coding-download.cfm)
 - [Why should I have written ZeroMQ in C, not C++ (part I) ](http://250bpm.com/blog:4)
 
