@@ -20,6 +20,9 @@
 
 ### ...Python
 
+# Software Engineering
 
-# Unix
+- [Don't Let Architecture Astronauts Scare You](http://www.joelonsoftware.com/articles/fog0000000018.html)
+
+## Unix
 - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html)
