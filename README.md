@@ -1,6 +1,7 @@
 # links
 
 # Applications
+- [Redshift (automatic color temperature adjustment)](http://jonls.dk/redshift/)
 
 # Programming Languages
 
