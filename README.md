@@ -5,6 +5,7 @@
 # Programming Languages
 
 ## C
+- [Efficient C/C++](http://embeddedgurus.com/stack-overflow/category/efficient-cc/)
 - [SEI CERT C Coding Standard: Rules for Developing Safe, Reliable, and Secure Systems](http://www.cert.org/secure-coding/products-services/secure-coding-download.cfm)
 
 ## Go
