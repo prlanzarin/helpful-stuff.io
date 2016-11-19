@@ -12,12 +12,10 @@
 
 ## Bash
 
-## Bashing
+## Bashing...
 
-### OOP
+### ...OOP
 
-### Java
+### ...Java
 
-### Scala
-
-### Python
+### ...Python
