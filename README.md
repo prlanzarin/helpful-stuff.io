@@ -8,8 +8,11 @@
 - [Efficient C/C++](http://embeddedgurus.com/stack-overflow/category/efficient-cc/)
 - [Going back to C](https://www.reddit.com/r/programming/comments/aue06/going_back_to_c/)
 - [SEI CERT C Coding Standard: Rules for Developing Safe, Reliable, and Secure Systems](http://www.cert.org/secure-coding/products-services/secure-coding-download.cfm)
+- [Why should I have written ZeroMQ in C, not C++ (part I) ](http://250bpm.com/blog:4)
 
 ## Go
+
+- [From Python to Go: migrating our entire API](https://blog.repustate.com/migrating-entire-api-go-python/)
 
 ## Bash
 - [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
