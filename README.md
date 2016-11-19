@@ -23,11 +23,7 @@
 - [Composition over Inheritance (Wikipedia)](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 - [Don't Let Architecture Astronauts Scare You](http://www.joelonsoftware.com/articles/fog0000000018.html)
 - [The Magpie Developer](https://blog.codinghorror.com/the-magpie-developer/)
-
-## Bashing OOP
-
 - [Unix and Object-Oriented Languages](http://www.catb.org/esr/writings/taoup/html/unix_and_oo.html)
-
 
 ## Unix
 - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html)
