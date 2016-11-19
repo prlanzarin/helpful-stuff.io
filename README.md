@@ -2,9 +2,6 @@
 
 # Music
 
-# Unix
-- [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html)
-
 # Programming Languages
 
 ## C
@@ -22,3 +19,7 @@
 ### ...Java
 
 ### ...Python
+
+
+# Unix
+- [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html)
