@@ -6,6 +6,7 @@
 
 ## C
 - [Efficient C/C++](http://embeddedgurus.com/stack-overflow/category/efficient-cc/)
+- [Going back to C](https://www.reddit.com/r/programming/comments/aue06/going_back_to_c/)
 - [SEI CERT C Coding Standard: Rules for Developing Safe, Reliable, and Secure Systems](http://www.cert.org/secure-coding/products-services/secure-coding-download.cfm)
 
 ## Go
