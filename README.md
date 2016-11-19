@@ -25,6 +25,7 @@
 
 # Software Engineering
 
+- [Wikipedia - Composition over Inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 - [Don't Let Architecture Astronauts Scare You](http://www.joelonsoftware.com/articles/fog0000000018.html)
 - [The Magpie Developer](https://blog.codinghorror.com/the-magpie-developer/)
 
