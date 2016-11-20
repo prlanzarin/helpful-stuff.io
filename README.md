@@ -13,7 +13,7 @@
 - [Why should I have written ZeroMQ in C, not C++ (part I) ](http://250bpm.com/blog:4)
 
 ## Go
-
+- [Awesome Go (A curated list of awesome Go frameworks, libraries and software.)](https://github.com/avelino/awesome-go)
 - [Quotes About Go Programming (cat-v)](http://go-lang.cat-v.org/quotes)
 - [From Python to Go: migrating our entire API](https://blog.repustate.com/migrating-entire-api-go-python/)
 
