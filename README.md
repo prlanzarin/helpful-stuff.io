@@ -14,6 +14,7 @@
 
 ## Go
 
+- [cat-v: Quotes About Go Programming](http://go-lang.cat-v.org/quotes)
 - [From Python to Go: migrating our entire API](https://blog.repustate.com/migrating-entire-api-go-python/)
 
 ## Bash
