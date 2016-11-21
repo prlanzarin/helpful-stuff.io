@@ -7,6 +7,7 @@
 
 ## C
 - [C11 - a new C standard aiming at safer programming](http://blog.smartbear.com/codereviewer/c11-a-new-c-standard-aiming-at-safer-programming/)
+- [C11 specification (final draft)](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf)
 - [Efficient C/C++](http://embeddedgurus.com/stack-overflow/category/efficient-cc/)
 - [Going back to C](https://www.reddit.com/r/programming/comments/aue06/going_back_to_c/)
 - [Robust Design Techniques for C Programs](http://freetype.sourceforge.net/david/reliable-c.html)
