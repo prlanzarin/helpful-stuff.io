@@ -27,7 +27,7 @@
 - [Composition over Inheritance (Wikipedia)](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 - [Don't Let Architecture Astronauts Scare You](http://www.joelonsoftware.com/articles/fog0000000018.html)
 - [Esterel v5 Language Primer](http://francois.touchard.perso.luminy.univmed.fr/IRM5/Langages/esterel/primer.pdf)
-  : *good introduction to synchron programming languages*
+  *good introduction to synchron programming languages*
 - [Magpie Developer](https://blog.codinghorror.com/the-magpie-developer/)
 - [Programming Quotes (cat-v)](http://quotes.cat-v.org/programming/)
 - [Unix and Object-Oriented Languages](http://www.catb.org/esr/writings/taoup/html/unix_and_oo.html)
