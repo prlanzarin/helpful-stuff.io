@@ -1,6 +1,7 @@
 # links
 
 # Applications
+- [Koel (music streaming server)](https://github.com/phanan/koel)
 - [Redshift (automatic color temperature adjustment)](http://jonls.dk/redshift/)
 - [The Magic of strace](http://chadfowler.com/2014/01/26/the-magic-of-strace.html)
 - [youtube-dl](https://github.com/rg3/youtube-dl)
@@ -23,6 +24,7 @@
 
 ## C++
 - [StackExchange: C++ vs Perl/Python/C](http://softwareengineering.stackexchange.com/questions/29109/is-there-any-reason-to-use-c-instead-of-c-perl-python-etc/29475#29475)
+- [Google Sanitizers](https://github.com/google/sanitizers)
 
 ## Go
 - [Awesome Go (A curated list of awesome Go frameworks, libraries and software.)](https://github.com/avelino/awesome-go)
@@ -32,6 +34,9 @@
 
 ## Java
 - [Why java sucks](http://tech.jonathangardner.net/wiki/Why_Java_Sucks)
+
+## Javascript
+- [You don't know Javascript](https://github.com/getify/You-Dont-Know-JS)
 
 ## Perl
 - [I want you to convince me to learn Perl](http://www.perlmonks.org/?node_id=1055553)
@@ -67,7 +72,7 @@
 - [Rich User Experience, UX and Desktopization of War](http://contemporary-home-computing.org/RUE/)
 
 # Music
-- [Paulo's youtube favourites (of dubious quality)](https://youtu.be/SHKzz-6s-9A)
+- [Paulo's youtube favourites (of dubious quality)](https://www.youtube.com/playlist?list=FLwgNMtLTT7BDdgCBQfacp7A)
 
 # Movies
 
@@ -75,5 +80,4 @@
 - [Project Gutenberg](https://www.gutenberg.org/)
   *legal way of obtaining LOTS of nice books*
 - [Library Genesis](http://gen.lib.rus.ec/)
-  *shady way of obtaining even more books (bittorrent)
-
+  *shady way of obtaining even more books (via bittorrent)*
