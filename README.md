@@ -18,6 +18,7 @@
 - [Awesome Go (A curated list of awesome Go frameworks, libraries and software.)](https://github.com/avelino/awesome-go)
 - [Quotes About Go Programming (cat-v)](http://go-lang.cat-v.org/quotes)
 - [From Python to Go: migrating our entire API](https://blog.repustate.com/migrating-entire-api-go-python/)
+- [Who needs generics? Use ... instead!](https://appliedgo.net/generics/)
 
 ## Bash
 - [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
