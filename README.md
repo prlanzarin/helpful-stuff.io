@@ -7,7 +7,6 @@
 - [youtube-dl](https://github.com/rg3/youtube-dl)
 
 # Programming Languages
-- [Are static typing and functional programming winning?](http://www.ybrikman.com/writing/2015/02/06/are-static-typing-and-functional/)
 
 ## Bash
 - [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
@@ -25,6 +24,9 @@
 ## C++
 - [StackExchange: C++ vs Perl/Python/C](http://softwareengineering.stackexchange.com/questions/29109/is-there-any-reason-to-use-c-instead-of-c-perl-python-etc/29475#29475)
 - [Google Sanitizers](https://github.com/google/sanitizers)
+
+## F-sharp
+- [Is your programming language unreasonable?](http://fsharpforfunandprofit.com/posts/is-your-language-unreasonable/)
 
 ## Go
 - [Awesome Go (A curated list of awesome Go frameworks, libraries and software.)](https://github.com/avelino/awesome-go)
