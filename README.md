@@ -8,6 +8,8 @@
 
 # Programming Languages
 
+- [Real Programmers](http://www.travelnotes.de/california/silicon/realprog.htm)
+
 ## Bash
 - [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
 
@@ -51,7 +53,7 @@
   *good introduction to synchron programming languages*
 - [Magpie Developer](https://blog.codinghorror.com/the-magpie-developer/)
 - [Pragmatic Programming](https://blog.codinghorror.com/pragmatic-programming/)
-  *very good article regarding the Pragmatic Programming book with half a dozen interesting references*
+  *good article regarding the Pragmatic Programming book with half a dozen interesting references*
 - [Programming Quotes (cat-v)](http://quotes.cat-v.org/programming/)
 - [Secure Programming HOWTO](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html)
 - [The Humble Programmer (Dijkstra)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
