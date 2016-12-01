@@ -45,12 +45,14 @@
 ## Perl
 - [I want you to convince me to learn Perl](http://www.perlmonks.org/?node_id=1055553)
 
+## Synchronous programming languages
+- [Esterel v5 Language Primer](http://francois.touchard.perso.luminy.univmed.fr/IRM5/Langages/esterel/primer.pdf)
+  *good introduction to synchronous programming languages*
+
 # Software Engineering
 
 - [Composition over Inheritance (Wikipedia)](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 - [Don't Let Architecture Astronauts Scare You](http://www.joelonsoftware.com/articles/fog0000000018.html)
-- [Esterel v5 Language Primer](http://francois.touchard.perso.luminy.univmed.fr/IRM5/Langages/esterel/primer.pdf)
-  *good introduction to synchron programming languages*
 - [Magpie Developer](https://blog.codinghorror.com/the-magpie-developer/)
 - [Pragmatic Programming](https://blog.codinghorror.com/pragmatic-programming/)
   *good article regarding the Pragmatic Programming book with half a dozen interesting references*
