@@ -69,6 +69,7 @@
 
 ## Hardware
 - [How FPGAs work, and why you'll buy one](http://yosefk.com/blog/how-fpgas-work-and-why-youll-buy-one.html)
+- [Introduction to embedded systems (Book)] (http://leeseshia.org/releases/LeeSeshia_DigitalV2_2.pdf)
 
 ## Computer Networks
 - [5G: its the Network, stupid](http://dirk-kutscher.info/posts/5g-its-the-network-stupid/)
