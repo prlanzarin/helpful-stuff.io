@@ -31,7 +31,9 @@
 - [Is your programming language unreasonable?](http://fsharpforfunandprofit.com/posts/is-your-language-unreasonable/)
 
 ## Go
-- [Awesome Go (A curated list of awesome Go frameworks, libraries and software.)](https://github.com/avelino/awesome-go) - [Quotes About Go Programming (cat-v)](http://go-lang.cat-v.org/quotes) - [From Python to Go: migrating our entire API](https://blog.repustate.com/migrating-entire-api-go-python/)
+- [Awesome Go (A curated list of awesome Go frameworks, libraries and software.)](https://github.com/avelino/awesome-go) 
+- [Quotes About Go Programming (cat-v)](http://go-lang.cat-v.org/quotes) 
+- [From Python to Go: migrating our entire API](https://blog.repustate.com/migrating-entire-api-go-python/)
 - [Who needs generics? Use ... instead!](https://appliedgo.net/generics/)
 
 ## Java
