@@ -31,9 +31,7 @@
 - [Is your programming language unreasonable?](http://fsharpforfunandprofit.com/posts/is-your-language-unreasonable/)
 
 ## Go
-- [Awesome Go (A curated list of awesome Go frameworks, libraries and software.)](https://github.com/avelino/awesome-go)
-- [Quotes About Go Programming (cat-v)](http://go-lang.cat-v.org/quotes)
-- [From Python to Go: migrating our entire API](https://blog.repustate.com/migrating-entire-api-go-python/)
+- [Awesome Go (A curated list of awesome Go frameworks, libraries and software.)](https://github.com/avelino/awesome-go) - [Quotes About Go Programming (cat-v)](http://go-lang.cat-v.org/quotes) - [From Python to Go: migrating our entire API](https://blog.repustate.com/migrating-entire-api-go-python/)
 - [Who needs generics? Use ... instead!](https://appliedgo.net/generics/)
 
 ## Java
@@ -66,6 +64,11 @@
 - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html)
 
 # Technology and research
+
+## Web Programming
+- [WebRTC in the real world: STUN, TURN and signaling](https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/)
+- [WebRTC connectivity](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Connectivity)
+- [STUN the Network – How STUN helps WebRTC Traverse NATs](https://webrtchacks.com/stun-helps-webrtc-traverse-nats/)
 
 ## Hardware
 - [How FPGAs work, and why you'll buy one](http://yosefk.com/blog/how-fpgas-work-and-why-youll-buy-one.html)
