@@ -51,6 +51,7 @@
 
 # Software Engineering
 
+- [goto is awesome](http://www.rasterman.com/post/goto-is-awesome-2-to-3x-faster)
 - [Composition over Inheritance (Wikipedia)](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 - [Don't Let Architecture Astronauts Scare You](http://www.joelonsoftware.com/articles/fog0000000018.html)
 - [Magpie Developer](https://blog.codinghorror.com/the-magpie-developer/)
