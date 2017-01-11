@@ -22,6 +22,7 @@
 - [Robust Design Techniques for C Programs](http://freetype.sourceforge.net/david/reliable-c.html)
 - [SEI CERT C Coding Standard: Rules for Developing Safe, Reliable, and Secure Systems](http://www.cert.org/secure-coding/products-services/secure-coding-download.cfm)
 - [Why should I have written ZeroMQ in C, not C++ (part I) ](http://250bpm.com/blog:4)
+- [Why C is a good language - or why you're wrong thinking C++ is better](https://blog.grumpycoder.net/index.php/post/2012/03/02/Why-C-is-a-good-language-or-why-you-re-wrong-thinking-C-is-better)
 
 ## C++
 - [StackExchange: C++ vs Perl/Python/C](http://softwareengineering.stackexchange.com/questions/29109/is-there-any-reason-to-use-c-instead-of-c-perl-python-etc/29475#29475)
