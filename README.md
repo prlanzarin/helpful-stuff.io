@@ -85,6 +85,9 @@
 ## UX/UI
 - [Rich User Experience, UX and Desktopization of War](http://contemporary-home-computing.org/RUE/)
 
+# Bike
+- [Ultralight bicycle touring](http://ultralightcycling.blogspot.de/)
+
 # Music
 - [Paulo's youtube favourites (of dubious quality)](https://www.youtube.com/playlist?list=FLwgNMtLTT7BDdgCBQfacp7A)
 
