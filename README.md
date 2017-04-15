@@ -23,6 +23,9 @@
 - [SEI CERT C Coding Standard: Rules for Developing Safe, Reliable, and Secure Systems](http://www.cert.org/secure-coding/products-services/secure-coding-download.cfm)
 - [Why should I have written ZeroMQ in C, not C++ (part I) ](http://250bpm.com/blog:4)
 - [Why C is a good language - or why you're wrong thinking C++ is better](https://blog.grumpycoder.net/index.php/post/2012/03/02/Why-C-is-a-good-language-or-why-you-re-wrong-thinking-C-is-better)
+### Libraries and Tools
+- [TommyDS is a C library of hashtables and tries] http://www.tommyds.it/
+- [Frama-C: open source static analysis tool] http://frama-c.com/
 
 ## C++
 - [StackExchange: C++ vs Perl/Python/C](http://softwareengineering.stackexchange.com/questions/29109/is-there-any-reason-to-use-c-instead-of-c-perl-python-etc/29475#29475)
