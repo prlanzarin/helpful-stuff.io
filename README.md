@@ -16,6 +16,7 @@
 ## C
 - [C11 - a new C standard aiming at safer programming](http://blog.smartbear.com/codereviewer/c11-a-new-c-standard-aiming-at-safer-programming/)
 - [C11 specification (final draft)](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf)
+- [C-FAQ](http://c-faq.com/)
 - [Efficient C/C++](http://embeddedgurus.com/stack-overflow/category/efficient-cc/)
 - [Going back to C](https://www.reddit.com/r/programming/comments/aue06/going_back_to_c/)
 - [Object-oriented programming in C](http://verplant.org/oo_programming_in_c.shtml)
