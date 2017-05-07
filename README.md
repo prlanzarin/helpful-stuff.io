@@ -10,8 +10,9 @@
 
 - [Real Programmers](http://www.travelnotes.de/california/silicon/realprog.htm)
 
-## Bash
+## Bash and co.
 - [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
+- [To awk or not to...](https://sites.google.com/site/toawkornot/home)
 
 ## C
 - [C11 - a new C standard aiming at safer programming](http://blog.smartbear.com/codereviewer/c11-a-new-c-standard-aiming-at-safer-programming/)
