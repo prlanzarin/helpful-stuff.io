@@ -23,6 +23,7 @@
 - [Object-oriented programming in C](http://verplant.org/oo_programming_in_c.shtml)
 - [Robust Design Techniques for C Programs](http://freetype.sourceforge.net/david/reliable-c.html)
 - [SEI CERT C Coding Standard: Rules for Developing Safe, Reliable, and Secure Systems](http://www.cert.org/secure-coding/products-services/secure-coding-download.cfm)
+- [Why I Love C (and Hate C++](http://fabpedigree.com/james/ilovec.htm)
 - [Why should I have written ZeroMQ in C, not C++ (part I) ](http://250bpm.com/blog:4)
 - [Why C is a good language - or why you're wrong thinking C++ is better](https://blog.grumpycoder.net/index.php/post/2012/03/02/Why-C-is-a-good-language-or-why-you-re-wrong-thinking-C-is-better)
 ### Libraries and Tools
