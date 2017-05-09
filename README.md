@@ -31,8 +31,9 @@
 - [Frama-C: open source static analysis tool](http://frama-c.com/)
 
 ## C++
-- [StackExchange: C++ vs Perl/Python/C](http://softwareengineering.stackexchange.com/questions/29109/is-there-any-reason-to-use-c-instead-of-c-perl-python-etc/29475#29475)
 - [Google Sanitizers](https://github.com/google/sanitizers)
+- [Simplify C++!](https://arne-mertz.de/)
+- [StackExchange: C++ vs Perl/Python/C](http://softwareengineering.stackexchange.com/questions/29109/is-there-any-reason-to-use-c-instead-of-c-perl-python-etc/29475#29475)
 
 ## F-sharp
 - [Is your programming language unreasonable?](http://fsharpforfunandprofit.com/posts/is-your-language-unreasonable/)
