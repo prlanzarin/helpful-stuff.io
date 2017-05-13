@@ -34,6 +34,7 @@
 - [Google Sanitizers](https://github.com/google/sanitizers)
 - [Simplify C++!](https://arne-mertz.de/)
 - [StackExchange: C++ vs Perl/Python/C](http://softwareengineering.stackexchange.com/questions/29109/is-there-any-reason-to-use-c-instead-of-c-perl-python-etc/29475#29475)
+- [Why C++ is Bad](http://lost.l-w.ca/0x05/why-c-is-bad/)
 
 ## F-sharp
 - [Is your programming language unreasonable?](http://fsharpforfunandprofit.com/posts/is-your-language-unreasonable/)
