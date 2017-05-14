@@ -40,8 +40,8 @@
 - [Is your programming language unreasonable?](http://fsharpforfunandprofit.com/posts/is-your-language-unreasonable/)
 
 ## Go
-- [Awesome Go (A curated list of awesome Go frameworks, libraries and software.)](https://github.com/avelino/awesome-go) 
-- [Quotes About Go Programming (cat-v)](http://go-lang.cat-v.org/quotes) 
+- [Awesome Go (A curated list of awesome Go frameworks, libraries and software.)](https://github.com/avelino/awesome-go)
+- [Quotes About Go Programming (cat-v)](http://go-lang.cat-v.org/quotes)
 - [From Python to Go: migrating our entire API](https://blog.repustate.com/migrating-entire-api-go-python/)
 - [Who needs generics? Use ... instead!](https://appliedgo.net/generics/)
 
@@ -64,6 +64,7 @@
 - [Composition over Inheritance (Wikipedia)](https://en.wikipedia.org/wiki/Composition_over_inheritance)
 - [Don't Let Architecture Astronauts Scare You](http://www.joelonsoftware.com/articles/fog0000000018.html)
 - [Magpie Developer](https://blog.codinghorror.com/the-magpie-developer/)
+- [SICP 2.4: Multiple Representations for Abstract Data](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-17.html#%_sec_2.4)
 - [Pragmatic Programming](https://blog.codinghorror.com/pragmatic-programming/)
   *good article regarding the Pragmatic Programming book with half a dozen interesting references*
 - [Programming Quotes (cat-v)](http://quotes.cat-v.org/programming/)
