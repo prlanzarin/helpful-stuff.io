@@ -65,6 +65,7 @@
 - [Don't Let Architecture Astronauts Scare You](http://www.joelonsoftware.com/articles/fog0000000018.html)
 - [Magpie Developer](https://blog.codinghorror.com/the-magpie-developer/)
 - [SICP 2.4: Multiple Representations for Abstract Data](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-17.html#%_sec_2.4)
+- [OOP is an expensive disaster which must end](http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end)
 - [Pragmatic Programming](https://blog.codinghorror.com/pragmatic-programming/)
   *good article regarding the Pragmatic Programming book with half a dozen interesting references*
 - [Programming Quotes (cat-v)](http://quotes.cat-v.org/programming/)
