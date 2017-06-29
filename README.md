@@ -35,6 +35,8 @@
 - [Orthodox C+++ (aka C+)](https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b)
 - [Simplify C++!](https://arne-mertz.de/)
 - [StackExchange: C++ vs Perl/Python/C](http://softwareengineering.stackexchange.com/questions/29109/is-there-any-reason-to-use-c-instead-of-c-perl-python-etc/29475#29475)
+- [What's Wrong with C++ Templates?](http://people.cs.uchicago.edu/~jacobm/pubs/templates.html)
+   (apesar do nome, útil pra entender mais sobre o funcionamento de Templates em C++ (sob a luz de ML e LISP))
 - [Why C++ is Bad](http://lost.l-w.ca/0x05/why-c-is-bad/)
 
 ## F-sharp
