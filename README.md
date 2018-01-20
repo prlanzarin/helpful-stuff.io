@@ -6,6 +6,10 @@
 - [The Magic of strace](http://chadfowler.com/2014/01/26/the-magic-of-strace.html)
 - [youtube-dl](https://github.com/rg3/youtube-dl)
 
+# Formal Methods
+
+- [TLA+](http://lamport.azurewebsites.net/video/videos.html)
+
 # Programming Languages
 
 - [Real Programmers](http://www.travelnotes.de/california/silicon/realprog.htm)
