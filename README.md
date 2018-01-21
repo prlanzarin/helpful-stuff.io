@@ -8,7 +8,7 @@
 
 # Formal Methods
 
-- [TLA+](http://lamport.azurewebsites.net/video/videos.html)
+- [TLA+ Video Course](http://lamport.azurewebsites.net/video/videos.html)
 
 # Programming Languages
 
