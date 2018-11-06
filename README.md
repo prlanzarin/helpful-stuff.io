@@ -79,6 +79,7 @@
 - [Secure Programming HOWTO](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html)
 - [The Humble Programmer (Dijkstra)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
 - [The sad state of web development](https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f#.jx2t752v6)
+- [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 - [Unix and Object-Oriented Languages](http://www.catb.org/esr/writings/taoup/html/unix_and_oo.html)
 
 ## Unix
